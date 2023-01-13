@@ -1,3 +1,5 @@
+# Birth Date to Astrological Sign
+
 month = input("Enter the month of your birth:")
 date = int(input("Enter date of your birth:"))
 if (month ==  "December" or month ==  "december" and date >= 22) or (month ==  "January" or month ==  "january" and date <= 19):

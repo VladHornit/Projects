@@ -1,5 +1,5 @@
-
 #  Coin Flip Simulation
+
 import random
 length = []
 def flip(x,y):
